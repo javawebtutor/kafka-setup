@@ -1,1 +1,1 @@
-# kafka-setup
+# kafka and zookeepe setup
